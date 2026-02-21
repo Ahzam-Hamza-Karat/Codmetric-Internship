@@ -9,10 +9,10 @@ The objective of this internship was to gain hands-on experience in security-foc
 
 ## Internship Overview
 
-- Organization: Codmetric
-- Role: Cybersecurity Intern
-- Focus Area: Python-based Security Tools
-- Duration: Internship Program
+- **Organization:** Codmetric  
+- **Role:** Cybersecurity Intern  
+- **Focus Area:** Python-based Security Tools  
+- **Duration:** Internship Program  
 
 ---
 
@@ -24,10 +24,11 @@ A simple password generator built using Python and Tkinter.
 Allows users to generate secure passwords with customizable length.
 
 **Concepts Covered:**
-- Random string generation
-- Python string module
-- GUI development using Tkinter
-- Basic security principles
+
+- Random string generation  
+- Python string module  
+- GUI development using Tkinter  
+- Basic security principles  
 
 ---
 
@@ -36,10 +37,11 @@ Allows users to generate secure passwords with customizable length.
 A GUI-based tool that evaluates the strength of user-entered passwords.
 
 **Concepts Covered:**
-- Input validation
-- Security best practices
-- Password strength analysis logic
-- GUI interaction handling
+
+- Input validation  
+- Security best practices  
+- Password strength analysis logic  
+- GUI interaction handling  
 
 ---
 
@@ -48,27 +50,28 @@ A GUI-based tool that evaluates the strength of user-entered passwords.
 A simple encryption and decryption tool implementing the Caesar Cipher algorithm with GUI support.
 
 **Concepts Covered:**
-- Classical encryption techniques
-- Shift cipher logic
-- Encryption & decryption process
-- GUI integration
+
+- Classical encryption techniques  
+- Shift cipher logic  
+- Encryption & decryption process  
+- GUI integration  
 
 ---
 
 ## Technologies Used
 
-- Python
-- Tkinter
-- Basic Cryptography Concepts
+- Python  
+- Tkinter  
+- Basic Cryptography Concepts  
 
 ---
 
 ## Learning Outcomes
 
-- Understanding of password security mechanisms
-- Practical exposure to encryption algorithms
-- GUI-based security tool development
-- Writing structured and modular Python code
+- Understanding of password security mechanisms  
+- Practical exposure to encryption algorithms  
+- GUI-based security tool development  
+- Writing structured and modular Python code  
 
 ---
 
@@ -85,6 +88,7 @@ Codmetric-Internship/
 │ └── task3.py
 │
 └── README.md
+
 ---
 
 ## License
