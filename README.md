@@ -85,3 +85,8 @@ Codmetric-Internship/
 │ └── task3.py
 │
 └── README.md
+---
+
+## License
+
+This repository is maintained for educational and portfolio purposes.
